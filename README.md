@@ -68,8 +68,8 @@ Creates a new answer using the following JSON body and make sure that <user_id> 
 ```json
 	{
 	    "answer": "answer test",
-        "user_id": 1,
-        "question_id": 2
+            "user_id": 1,
+            "question_id": 2
 	}
 ```
 
