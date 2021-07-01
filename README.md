@@ -51,7 +51,7 @@ Our current API hosts three endpoinst `/questions`, `/answers` & `/users`.
 
 For `/questions` we have the following HTTP methods:
 
-####POST
+#### POST
 Creates a new question using the following JSON body:
 
 ```json
@@ -75,7 +75,7 @@ Creates a new answer using the following JSON body and make sure that <user_id> 
 
 All fields are required.
 
-####GET 
+#### GET 
 Get any answer using the following endpoint.
 ```
 http://localhost:3000/api/v1/answers
