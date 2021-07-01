@@ -63,6 +63,10 @@ Creates a new question using the following JSON body:
 
 All fields are required.
 
+For `/answers` we have the following HTTP methods:
+
+#### POST
+
 Creates a new answer using the following JSON body and make sure that <user_id> and <question_id> exists in the database.
 
 ```json
